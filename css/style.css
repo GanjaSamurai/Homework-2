@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border-color: green;
+
+}
+
+.bg-box {
+    height: 1000px;
+    background: green;
+    background: url('../img/grass-png-images-pictures-transparent-28.png') bottom / 20%  repeat-x,
+                url('../img/pole-zelen-trava-dom-derevya.jpg') center / 30% no-repeat,
+                url('../img/lamp-png-0.png') top / 2% repeat-x,
+                url('../img/Ёжик.png') left / 5% repeat-y,
+                url('../img/donut.png') right / 5% repeat-y;
+
+
+}
+body {
+    border-color: green;
+}
